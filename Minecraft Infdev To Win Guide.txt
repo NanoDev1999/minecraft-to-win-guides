@@ -48,6 +48,11 @@ Crafting:
 [] Diamond Axe
 [] Diamond Hoe
 
+[] Leather Helmet
+[] Leather Chestplate
+[] Leather Leggings
+[] Leather Boots
+
 [] Iron Helmet
 [] Iron Chestplate
 [] Iron Leggings
