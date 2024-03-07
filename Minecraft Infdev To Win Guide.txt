@@ -194,7 +194,6 @@ Farming:
 Adventure:
 
 [] Conquer at least 3 Dungeons by mining and collecting 3 mob spawners.
-[] Conquer Pyramid
 
 [] Kill a Skeleton
 [] Kill a Zombie
