@@ -209,8 +209,6 @@ Adventure:
 [] Saddle
 [] Attach a Saddle to a Pig and ride him.
 
-[] Visit the Far Lands
-
 
 
 
