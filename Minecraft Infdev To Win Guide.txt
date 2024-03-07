@@ -1,4 +1,5 @@
 Minecraft Infdev To Win Guide
+Version: Java Edition Infdev 20100630
 
 This guide is how to play and "win" Minecraft Infdev.
 Think of this as a TODO list.
