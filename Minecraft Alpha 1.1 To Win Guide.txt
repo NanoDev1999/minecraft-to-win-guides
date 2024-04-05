@@ -7,6 +7,9 @@ Think of this as a TODO list.
 
 Difficulty = Hard
 
+World Type = Winter 
+(Get the Winter World Type by creating new worlds until it is snowing, it's a 25% chance)
+
 When crafting and obtaining items, you will have this item
 stored in a treasure chest to show you have obtained it.
 All qualities in the chest must be at 100%, no half used items.
@@ -74,7 +77,7 @@ Crafting:
 
 [] Torch
 
-[] Chest x2
+[] Chest x3
 
 [] Furnace
 
@@ -92,7 +95,6 @@ Crafting:
 [] Block of Iron
 [] Block of Gold
 [] Block of Diamond
-
 
 [] TNT
 
@@ -168,6 +170,8 @@ Cooking:
 
 Obtain:
 
+[] Gunpowder
+
 [] Oak Log
 
 [] Seeds
@@ -176,13 +180,13 @@ Obtain:
 
 [] Golden Apple
 
+[] Eggs
+
 [] Diamond
 
 [] Cactus
 
 [] Redstone
-
-[] Ice
 
 [] Snow Block
 
@@ -190,9 +194,9 @@ Obtain:
 
 [] Leather
 
-[] Reed
+[] Reed / Sugar Cane
 
-[] Clay
+[] Clay Block
 
 [] Slimeball
 
@@ -208,8 +212,6 @@ Obtain:
 
 [] Brown Mushroom
 
-[] Sulphur
-
 [] Wheat
 
 [] Raw Porkchop
@@ -224,7 +226,6 @@ Obtain:
 
 [] Iron Ore Block
 [] Gold Ore Block
-[] Redstone Ore Block
 
 [] Flower
 [] Rose
@@ -232,8 +233,6 @@ Obtain:
 [] Moss Stone
 
 [] Obsidian
-
-[] Mob Spawner x3
 
 [] Water Bucket
 [] Lava Bucket
@@ -243,12 +242,6 @@ Obtain:
 
 [] Music Disc - 13
 [] Music Disc - cat
-
-[] Eggs
-
-
-
-
 
 
 
@@ -263,12 +256,6 @@ Construction:
 [] Build a Library
 [] Build a Garden
 
-[] Build a Boat Dock
-
-[] Build a Lighthouse
-
-[] Build an Observatory
-
 
 
 
@@ -276,13 +263,14 @@ Farming:
 
 [] Make a Tree Farm
 [] Make a Wheat Farm
+[] Make a Reed/Sugar Cane Farm
 
 
 
 
 Adventure:
 
-[] Conquer at least 3 Dungeons by mining and collecting 3 mob spawners.
+[] Conquer at least 3 Dungeons by destroying 3 mob spawners.
 
 [] Kill a Skeleton
 [] Kill a Zombie
@@ -297,20 +285,15 @@ Adventure:
 
 [] Attach a Saddle to a Pig and ride him.
 
-[] Place Signs to declare Finished Mineshafts.
+[] Place Signs to declare Mineshafts.
 [] Place Sign on the Side of a Block.
 [] Place Sign as Sign Post.
 
-[] Sit
 [] Sneak
-
-[] Playthrough the Normal World
-[] Playthrough the Winter World
 
 [] Freeze Water into Ice
 
 [] Use Lava Bucket as fuel
-
 
 
 
